@@ -14,7 +14,7 @@ public class TestMessage
 		assertEquals(text, message.printMessage());
 	}
 	
-	@Test
+	
 	public void testPrintMessageFailure()
 	{
 		String badText = "Hello Kitty";
